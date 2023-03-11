@@ -1,5 +1,5 @@
 1. npx create-react-app project-name
 
-2. npm i @reduxjs/toolkit
+2. npm i @reduxjs/toolkit //useful library for making slice methodology
    npm i redux
-   npm i react-redux
+   npm i react-redux //library for connecting between redux and react
